@@ -1,0 +1,17 @@
+E:\git\Ejercicio2.2\EjercicioDosPuntoDos\EjercicioDosPuntoDos\EjercicioDosPuntoDos\bin\Debug\netstandard2.0\EjercicioDosPuntoDos.deps.json
+E:\git\Ejercicio2.2\EjercicioDosPuntoDos\EjercicioDosPuntoDos\EjercicioDosPuntoDos\bin\Debug\netstandard2.0\EjercicioDosPuntoDos.dll
+E:\git\Ejercicio2.2\EjercicioDosPuntoDos\EjercicioDosPuntoDos\EjercicioDosPuntoDos\bin\Debug\netstandard2.0\ref\EjercicioDosPuntoDos.dll
+E:\git\Ejercicio2.2\EjercicioDosPuntoDos\EjercicioDosPuntoDos\EjercicioDosPuntoDos\bin\Debug\netstandard2.0\EjercicioDosPuntoDos.pdb
+E:\git\Ejercicio2.2\EjercicioDosPuntoDos\EjercicioDosPuntoDos\EjercicioDosPuntoDos\obj\Debug\netstandard2.0\EjercicioDosPuntoDos.csproj.AssemblyReference.cache
+E:\git\Ejercicio2.2\EjercicioDosPuntoDos\EjercicioDosPuntoDos\EjercicioDosPuntoDos\obj\Debug\netstandard2.0\EjercicioDosPuntoDos.GeneratedMSBuildEditorConfig.editorconfig
+E:\git\Ejercicio2.2\EjercicioDosPuntoDos\EjercicioDosPuntoDos\EjercicioDosPuntoDos\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\git\Ejercicio2.2\EjercicioDosPuntoDos\EjercicioDosPuntoDos\EjercicioDosPuntoDos\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\git\Ejercicio2.2\EjercicioDosPuntoDos\EjercicioDosPuntoDos\EjercicioDosPuntoDos\obj\Debug\netstandard2.0\Views\SignaturePage.xaml.g.cs
+E:\git\Ejercicio2.2\EjercicioDosPuntoDos\EjercicioDosPuntoDos\EjercicioDosPuntoDos\obj\Debug\netstandard2.0\Views\SignatureUpdate.xaml.g.cs
+E:\git\Ejercicio2.2\EjercicioDosPuntoDos\EjercicioDosPuntoDos\EjercicioDosPuntoDos\obj\Debug\netstandard2.0\EjercicioDosPuntoDos.AssemblyInfoInputs.cache
+E:\git\Ejercicio2.2\EjercicioDosPuntoDos\EjercicioDosPuntoDos\EjercicioDosPuntoDos\obj\Debug\netstandard2.0\EjercicioDosPuntoDos.AssemblyInfo.cs
+E:\git\Ejercicio2.2\EjercicioDosPuntoDos\EjercicioDosPuntoDos\EjercicioDosPuntoDos\obj\Debug\netstandard2.0\EjercicioDosPuntoDos.csproj.CoreCompileInputs.cache
+E:\git\Ejercicio2.2\EjercicioDosPuntoDos\EjercicioDosPuntoDos\EjercicioDosPuntoDos\obj\Debug\netstandard2.0\XamlC.stamp
+E:\git\Ejercicio2.2\EjercicioDosPuntoDos\EjercicioDosPuntoDos\EjercicioDosPuntoDos\obj\Debug\netstandard2.0\EjercicioDosPuntoDos.dll
+E:\git\Ejercicio2.2\EjercicioDosPuntoDos\EjercicioDosPuntoDos\EjercicioDosPuntoDos\obj\Debug\netstandard2.0\ref\EjercicioDosPuntoDos.dll
+E:\git\Ejercicio2.2\EjercicioDosPuntoDos\EjercicioDosPuntoDos\EjercicioDosPuntoDos\obj\Debug\netstandard2.0\EjercicioDosPuntoDos.pdb
